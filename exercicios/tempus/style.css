@@ -25,7 +25,7 @@ body {
 }
 
 header {
-    background-image: linear-gradient(to bottom, var(--cor5), var(--cor2));
+    background-image: linear-gradient(to bottom, var(--cor2),var(--cor5) );
     text-align: center;
     padding: 10px 10px ;
     box-shadow: 3px 3px 6px rgba(0, 0, 0.125);
@@ -40,7 +40,7 @@ header > h1 {
 }
 
 nav > a{
-    color: var(--cor5);
+    color: white;
     padding: 10px;
     font-family: var(--font-metal);
     text-align: left;
