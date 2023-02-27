@@ -33,7 +33,7 @@ header {
 }
 
 header > h1 {
-    font-size: 5em;
+    font-size: 4em;
     font-family: var(--font-metal);
     margin: auto;
     font-weight: bolder;
@@ -58,6 +58,7 @@ nav > a:hover{
 
 
 h2 {
+    font-size: 1.5em;
     text-align: justify;
     text-indent: 30px;
     background-image: linear-gradient(to right, var(--cor3), transparent);
