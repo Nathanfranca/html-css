@@ -155,3 +155,19 @@ main h1{
   p.final{
     margin-top: 30px;
   }
+
+  footer{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    background-color: #1a5c37;
+    padding-bottom: 20px;
+  }
+
+  p.rodape{
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-size: 1.4em;
+  }
